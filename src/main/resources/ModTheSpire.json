@@ -1,0 +1,10 @@
+{
+  "modid": "bankerboss",
+  "name": "Banker Boss Mod",
+  "author_list": ["dyth","orangesky"],
+  "description": "Adds 1 City boss.",
+  "version": "1.0",
+  "sts_version": "07-30-2020",
+  "mts_version": "2.6.0",
+  "dependencies": ["basemod"]
+}
